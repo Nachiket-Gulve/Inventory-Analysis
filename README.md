@@ -14,3 +14,7 @@ In this project, I conducted an Inventory Analysis for a beverage manufacturing 
 𝗟𝗮𝗿𝗴𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴: Worked with a dataset of 4.3 million entries—my first time managing data at this scale, which was a great learning experience.
 
 This project enhanced my skills in data processing, database management, and dashboard creation for large datasets.
+
+**Dashboard :**
+
+![Dashboard Screenshot](Inventory_Dashboard.png)
